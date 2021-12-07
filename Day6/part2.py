@@ -2,7 +2,7 @@
 Day 6 - Part 2
 https://adventofcode.com/2021/day/6#part2
 
-By NORXND @ 03.12.2021
+By NORXND @ 06.12.2021
 (C) NORXND 2021 - Under The MIT License
 """
 import time
