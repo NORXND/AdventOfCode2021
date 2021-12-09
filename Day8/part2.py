@@ -2,7 +2,7 @@
 Day 8 - Part 2
 https://adventofcode.com/2021/day/8#part2
 
-By NORXND @ 07.12.2021
+By NORXND @ 08.12.2021
 (C) NORXND 2021 - Under The MIT License
 """
 
