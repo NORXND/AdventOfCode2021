@@ -1,4 +1,7 @@
 # Advent of Code 2021 Solutions by NORXND
+## Update
+Nothing will probably show anymore. I don't have time and experience to solve the next tasks although I'm happy I was able to finish over half of it!
+
 Bad, slow, unreadable. Just go away because there is a lot of other repos like this with better answers that will teach you more.
 
 I'm not guaranteeing that new days will come out.
